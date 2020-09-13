@@ -1,3 +1,3 @@
 # myLearningRepo
 for testing
-Tha is it
+Tha is it ..
